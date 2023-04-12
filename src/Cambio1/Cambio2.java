@@ -5,6 +5,6 @@ public class Cambio2 {
 
 		System.out.println("Primer proyecto");
 
-		System.out.println("Clon del proyecto");
+		System.out.println("Clon del proyecto.");
 }
 }
